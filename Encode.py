@@ -1,3 +1,4 @@
+# by seamus
 def encode(rawPass):
     encoded = ""
     for char in rawPass:
